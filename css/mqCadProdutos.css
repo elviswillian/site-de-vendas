@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px) {
+       
+    .cad{
+        margin: auto;
+        margin-top: 7%;
+        width: 60%;
+        height: 50vh;
+        border: 1px solid rgb(39, 37, 37);
+        border-radius: 10px;
+        box-shadow: 5px 5px 5px rgb(105, 105, 105);
+        
+    }
+    
+}
